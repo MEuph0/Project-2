@@ -1,6 +1,5 @@
-# CSCE 3550  Project 2: JWKS Server + Database File
+# CSCE 3550  Project 2: Extending the Basic JWKS Server
 Mason Willy
-Project 2
 
 ## Server
 A server with 2 endpoints: a RESTful JWKS endpoint tht serves public keys in JWKS format and a /auth endpoint that returns an unexpired, signed JWT on a POST request.
